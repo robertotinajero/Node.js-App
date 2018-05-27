@@ -1,0 +1,32 @@
+{
+  "name": "Node.js-App",
+  "version": "1.0.0",
+  "description": "Getting start with Node.js, learn set enviroment variables and folder structure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robertotinajero/Node.js-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robertotinajero/Node.js-App/issues"
+  },
+  "homepage": "https://github.com/robertotinajero/Node.js-App#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "connect-flash": "^0.1.1",
+    "cookie-parser": "^1.4.3",
+    "dotenv": "^5.0.1",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "express-session": "^1.15.6",
+    "method-override": "^2.3.10",
+    "morgan": "^1.9.0",
+    "serve-favicon": "^2.5.0"
+  }
+}
